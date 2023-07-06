@@ -7,6 +7,7 @@ https://benjaminescobar1.github.io/password-generator/
 
 
 ## Screenshot
+![password generator](https://github.com/benjaminescobar1/password-generator/assets/135399618/1dd96508-a580-474b-a94a-d928568fe6e5)
 
 
 
